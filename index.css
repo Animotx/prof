@@ -11,6 +11,7 @@ body {
     
     
     
+    
 }
 
     
@@ -18,6 +19,8 @@ body {
 table{
   border-radius: 15px;
   border: 2px dotted black;
+  cursor: url('katana.png'), auto;
+    
 }
 
 
@@ -32,6 +35,8 @@ table{
     display:block;
     box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.727);
     background-position: center;
+    cursor: url('katana.png'), auto;
+    
 }
 
 
@@ -40,12 +45,16 @@ img {
   width: 150px;
   border-radius:80px;
   border:4px solid rgba(41, 255, 4, 0.696) ;
+  cursor: url('katana.png'), auto;
+    
 }
 
 .pfp-name{
     font-size: xx-large;
     font: bolder;
     font-weight: bolder;
+    cursor: url('katana.png'), auto;
+    
     
 }
 
@@ -53,6 +62,8 @@ img {
 details {
       margin: 20px;
       cursor: pointer;
+      cursor: url('katana.png'), auto;
+    
       
       
       
@@ -67,6 +78,8 @@ details {
       transition: 1s;
       border-radius: 25px;
       box-shadow:0 0 5px 3px rgba(0, 0, 0, 0.7);
+      cursor: url('katana.png'), auto;
+    
       
     }
 
@@ -74,6 +87,8 @@ details {
       color: #f0ffff;
       background-color: rgba(255, 0, 0, 0.668) ;
       scale: 1.1;
+     cursor: url('katana.png'), auto;
+    
     }
 
     .social-media {
@@ -85,6 +100,8 @@ details {
       color: black;
       background-color: rgba(180, 176, 176, 0.618);;
       border-radius: 15px;
+      cursor: url('katana.png'), auto;
+    
       
       
     }
@@ -99,6 +116,8 @@ details {
       color: black;
       background-color: rgba(180, 176, 176, 0.618);
       border-radius: 15px;
+     cursor: url('katana.png'), auto;
+    
     }
     
 
@@ -109,18 +128,24 @@ details {
       background-color: rgba(180, 176, 176, 0.618);
       border-radius: 15px;
       background-blend-mode: exclusion;
+      cursor: url('katana.png'), auto;
+    
     }
 
     .button{
       background-color: #fef4f4;
       transition-duration: 1s;
       border-radius: 15px;
+      cursor: url('katana.png'), auto;
+    
 
     }
 
 .music{
     color:rgb(250, 249, 249) ;
     transition-duration: 1.2s;
+    cursor: url('katana.png'), auto;
+    
 
 }
 
@@ -130,6 +155,8 @@ details {
   color:rgba(255, 0, 0, 0.668) ;
   text-decoration-line: line-through;
   scale: 1.1;
+  cursor: url('katana.png'), auto;
+    
 
 }
 
@@ -137,6 +164,8 @@ details {
 .goal{
   color:rgb(251, 251, 251) ;
   transition-duration: 1.2s;
+  cursor: url('katana.png'), auto;
+    
 
 }
 
@@ -145,13 +174,18 @@ details {
   color:rgba(255, 0, 0, 0.668) ;
 text-decoration-line: line-through;
 scale: 1.1;
-
+cursor: url('katana.png'), auto;
+    
 }
 
 
 
     .button:hover{
       background-color: rgba(255, 0, 0, 0.668) ;
+      cursor: url('katana.png'), auto;
+    
+
+        
     }
 
 
@@ -165,6 +199,8 @@ scale: 1.1;
       margin-inline-end: 0px;
       font-weight: bold;
       unicode-bidi: isolate;
+      cursor: url('katana.png'), auto;
+    
   }
 
   p{
@@ -176,6 +212,8 @@ scale: 1.1;
       background-color: rgba(180, 176, 176, 0.618);
       border-radius: 15px;
       background-blend-mode: exclusion;
+      cursor: url('katana.png'), auto;
+    
   }
 
 
@@ -187,6 +225,8 @@ scale: 1.1;
     background-color: rgba(180, 176, 176, 0.618);
     border-radius: 15px;
     background-blend-mode: exclusion;
+    cursor: url('katana.png'), auto;
+    
   
   }
 
@@ -197,6 +237,8 @@ section{
     background-color: rgba(180, 176, 176, 0.618);
     border-radius: 15px;
     background-blend-mode: exclusion;
+    cursor: url('katana.png'), auto;
+    
 
 
 }
